@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Olá, é um prazer tê-lo por aqui!👋</h1> 
-<p align="left"><img src="https://i.imgur.com/gBxP6oJ.gif" alt="Um GIF atrativo."/></p>
+<p align="left"><img src="https://i.imgur.com/gBxP6oJ.gif" alt="Um GIF atrativo." width="400"/></p>
 <hr>
 
 ### Algumas coisas sobre mim...
