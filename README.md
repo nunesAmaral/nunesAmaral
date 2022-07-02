@@ -9,7 +9,6 @@
 <hr>
 
 ### Algumas coisas sobre mim...
-<hr>
 
 - 🔭 Atualmente estou desenvolvendo um projeto para meu Campus, bem como desenvolvendo uma aplicação web para uma escola.
 - 💻 Sou técnico em informática.
