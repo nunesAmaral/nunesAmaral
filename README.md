@@ -5,7 +5,7 @@
 
 
 # Olá, é um prazer tê-lo por aqui!👋
-<p align="left">https://images.squarespace-cdn.com/content/v1/573d998fd51cd4fef86797a5/1492168335200-WBGPFW6ZWIR595Y4E8TG/Coffee-Animated-s.gif" alt="Um GIF atrativo." width="800"/></p>
+<p align="left"><img src= "https://images.squarespace-cdn.com/content/v1/573d998fd51cd4fef86797a5/1492168335200-WBGPFW6ZWIR595Y4E8TG/Coffee-Animated-s.gif" alt="Um GIF atrativo." width="800"/></p>
 <hr>
 
 ### Algumas coisas sobre mim...
