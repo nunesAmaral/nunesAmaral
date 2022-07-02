@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Olá, é um prazer tê-lo por aqui!👋</h1> 
-<p align="left"><img src="https://i.pinimg.com/originals/d2/72/09/d27209bb21b3605ceadf884a8c9dc88e.gif" alt="Um GIF atrativo." width="800"/></p>
+<p align="left"><img src="https://cdna.artstation.com/p/assets/images/images/008/437/908/original/hayley-h-salya.gif?1512759839" alt="Um GIF atrativo." width="800"/></p>
 <hr>
 
 ### Algumas coisas sobre mim...
