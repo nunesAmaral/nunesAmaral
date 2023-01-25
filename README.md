@@ -10,7 +10,7 @@
 
 ### Algumas coisas sobre mim...
 
-- 🔭 Atualmente estou desenvolvendo um projeto para meu Campus, bem como desenvolvendo uma aplicação web para uma escola.
+- 🔭 Atualmente estou desenvolvendo alguns projetos. Dê uma olhada nos meus repositórios.
 - 💻 Sou técnico em informática.
 - 🌱 Estou estudando JavaScript e React, mas também tenho interesse em Node e PHP.
 - 🖼️ Gosto de desenhar algumas telas no Figma.
