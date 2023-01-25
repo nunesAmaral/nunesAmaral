@@ -11,10 +11,12 @@
 ### Algumas coisas sobre mim...
 
 - 🔭 Atualmente estou desenvolvendo alguns projetos. Dê uma olhada nos meus repositórios.
-- 💻 Sou técnico em informática.
-- 🌱 Estou estudando JavaScript e React, mas também tenho interesse em Node e PHP.
-- 🖼️ Gosto de desenhar algumas telas no Figma.
+- 💻 Sou técnico em informática e ingressante no curso de Tecnologia da informação e comunicação na UFSC.
+- 💻 Já desenvolvi utilizando HTML, CSS, JS e PHP.
+- 🌱 Atualmente estudando NodeJS, NextJS e Typescript, mas com Laravel e C# na checklist de estudos.
+- 🖼️ Amo UI Design e gosto de desenhar algumas telas no Figma.
 - 📫 Ah, e meu e-mail para contato é joaovitornunesdoamaral@outlook.com
+- 💼 E não esquece de se conectar comigo no LinkedIn: https://www.linkedin.com/in/nunezzz/
 
 
 
