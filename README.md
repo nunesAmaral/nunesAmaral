@@ -11,9 +11,9 @@
 ### Algumas coisas sobre mim...
 
 - 🔭 Atualmente estou desenvolvendo alguns projetos. Dê uma olhada nos meus repositórios.
-- 💻 Sou técnico em informática e ingressante no curso de Tecnologia da informação e comunicação na UFSC.
-- 💻 Já desenvolvi utilizando HTML, CSS, JS e PHP.
-- 🌱 Atualmente estudando NodeJS, NextJS e Typescript, mas com Laravel e C# na checklist de estudos.
+- 💻 Sou técnico em informática e cursando análise e desenvolvimento de sistemas pela UCB.
+- 💻 Atualmente trabalhando como analista de TI, com experiência em migrações de aplicações AngularJS.
+- 🌱 Atualmente aprofundando meus conhecimentos em desenvolvimento frontend e iniciando com Java.
 - 🖼️ Amo UI Design e gosto de desenhar algumas telas no Figma.
 - 📫 Ah, e meu e-mail para contato é joaovitornunesdoamaral@outlook.com
 - 💼 E não esquece de se conectar comigo no LinkedIn: https://www.linkedin.com/in/nunezzz/
